@@ -1,0 +1,36 @@
+﻿<[file][][]
+    <[object][][]
+        <[int][Version][210]>
+        <[vec32array][ContactSpheres][ (3.5392 0.0 -0.9439 0.1835) (0.4513 1.0684 -0.9444 0.1758) (0.4513 -1.0684 -0.9444 0.1758) ]>
+        <[string8][DisplayName][Flaris LAR01]>
+        <[string8][DescriptionTextEN][Flaris LAR01, also variously called the LAR 1, is a Polish four-seat very light jet, currently under development by Metal-Master of Jelenia Góra. The project was started by Sylwia and Rafal Ladzinscy with the assistance of the Instytut Lotnictwa, Instytut Techniczny Wojsk Lotniczych, Politechnika Warszawska, Politechnika Wroclawska and Wojskowa Akademia Techniczna. The aircraft mock-up was displayed at the 2013 Paris Airshow. The designers intend to install removable wings. The type is expected to be certificated in 2018.
+For Aerofly FS2 made by Krzysztof Kaniewski, 3D model by Metal-Master, livery by Lukasz Wojciechowicz.]>
+		<[float64][WingSpan][8.68]>
+		<[float64][Mass][700]>
+		<[float64][MaximumSpeed][189.0]>
+		<[float64][MinimumSpeed][31.0]>
+        <[float64][ApproachSpeed][21.0]>
+        <[float64][CruiseSpeed]  [189.0]>
+		<[tmvector2d][NormalSpeedRange][ 31.0 170.0 ]>
+		<[tmvector2d][CautionSpeedRange][ 170.0 189.0 ]>
+		<[tmvector2d][FlapSpeedRange][ 30.5 75.0 ]>
+        <[float64][MaximumAltitude][46000.0]> 
+        <[float64][CruiseAltitude] [41000.0]>
+        <[float64][QSpan][8.7]>
+        <[float64][QMass][1500.0]>
+        <[float64][QSpeed][189.0]>
+        <[float64][QPower][0.0]>
+        <[float64][QThrust][8500.0]>
+        <[float64][QRange][3200000.0]>
+        <[float64][QRatio][18.0]>
+        <[float64][QBuild][1]>
+        <[float64][QVirgin][2019]>
+        <[tmvector2d][FlapSettings][ (0.0 0.00) (0.5 0.174533) (1.0 0.610865) ]>
+        <[string8][FlapQualifier][]>		
+		<[bool][Airplane][true]>
+		<[bool][Jet][true]>
+		<[bool][Flaps][true]>
+		<[bool][Retracts][true]>
+		<[string8][Pilot][]>
+    >
+>
